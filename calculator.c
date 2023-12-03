@@ -9,3 +9,7 @@ int calculate(int a, int b){
 >>>>>>> feature-conflict
   return c;
 }
+
+int pow2(int a){
+  return a * a;
+}
